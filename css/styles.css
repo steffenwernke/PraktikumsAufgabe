@@ -1,0 +1,23 @@
+table, td, tr {
+		border: 1px solid;	
+	}
+	
+	#map {
+		position: fixed !important;
+        height: 100%;
+		width: 50%;
+        top: 0;
+        right: 0;
+       }
+	   
+	#restaurants {		
+		width: 50%;
+	}
+	   
+	.box {
+		float: left;	
+	}
+	
+	img {
+		height: 80px;
+	}
